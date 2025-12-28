@@ -1,3 +1,6 @@
+> [!warning]
+> This repository is generated from [selfhost-bsky-feed](https://github.com/masaki39/selfhost-bsky-feed).
+
 # selfhost-bsky-feed
 
 Self-host a simple keyword-based Bluesky feed with GitHub Actions.
